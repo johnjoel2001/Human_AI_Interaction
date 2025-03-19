@@ -25,7 +25,7 @@
    git clone https://github.com/johnjoel2001/Human_AI_Interaction.git
    cd Human_AI_Interaction
    ```
-2. Run the Assignment 09 _ Human _ AI_Interaction.ipynb
+2. Run the Human-AI-Interaction.ipynb
 3. The requirements are listed in the first cell.
 
 ## Note
