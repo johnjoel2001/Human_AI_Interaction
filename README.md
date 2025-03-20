@@ -28,6 +28,12 @@
 2. Run the Human-AI-Interaction.ipynb
 3. The requirements are listed in the first cell.
 
+**References**
+
+- https://github.com/AIPI-590-XAI/Duke-AI-XAI/blob/main/explainableml-example-notebooks/local_explanations.ipynb
+- https://christophm.github.io/interpretable-ml-book/lime.html
+
+
 ## Note
 
 AI Tools were not used in this Assignment
